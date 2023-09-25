@@ -1,6 +1,10 @@
 ## Welcome to CraftSuperLoader 👋
 
+<hr>
 
+Here is the source code for CraftSuperLoader and the repository for the documentation site. You can find almost anything about CraftSuperLoader here
+
+Have a greate time!
 
 <!--
 
